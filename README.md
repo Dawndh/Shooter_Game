@@ -2,8 +2,7 @@
 This is a Shooter Game
 
 CONTROLS:
-Use the letters 'a' and 'd' on your keyboard to move the rocket left or right
-To shoot the rocket, press the spacebar
+Use the letters 'a' and 'd' on your keyboard to move the rocket left or right. To shoot the rocket, press the spacebar
 
 
 
