@@ -12,6 +12,8 @@ To win, you have to shoot atleast 15 ufo's without letting 3 of them through or 
 
 Win:
 If you manage to hit 15 ufo's without them touching your rocket of get past, the text 'You Win!' will appear on your screen before the game automatically resets
+A winning sound effect will also be played
 
 Lose:
 If 3 ufo's manage to get past your rocket or touch it, the text 'You Lose!' will appear on your screen before the game automatically resets
+A losing sound effect will also be played
